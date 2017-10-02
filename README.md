@@ -67,6 +67,7 @@ Theses awesome people have successfully watch all episodes and made a PR :)
 
 - 😎 [Majdi Toumi](https://github.com/majdi)
 - 😏 [Flavien Medina](https://github.com/flavien94)
+- 🤔 [Mamadou DIOP](https://github.com/mamadoudiop)
 
 ### <a name='credits'>Credits</a>
 

@@ -66,8 +66,18 @@ link profile and very important a uniq emoticons :)
 Theses awesome people have successfully watch all episodes and made a PR :)
 
 - 😎 [Majdi Toumi](https://github.com/majdi)
+- 😄 [Jeremy NOHILE](https://github.com/JeremyNoh/)
+- 👽 [Thomas Pelfrene](https://github.com/Thomas-Pelfrene)
 - 😏 [Flavien Medina](https://github.com/flavien94)
-- 😎 
+- 😝 [Matthieu Sukho](https://github.com/matthieusukho)
+- 🤖 [Sheikh Rohman](https://github.com/ZeikoRohman)
+- 🤔 [Mamadou DIOP](https://github.com/mamadoudiop)
+- 😿 [Julien Luccioni](https://github.com/LuccioniJulien)
+- 😢 [Gwen Ernoul](https://github.com/nehrr)
+- 😈 [Abdoulaye Diallo](https://github.com/DiallAbdoulaye)
+- 😆 [Antoine Francois](https://github.com/aawfrancois)
+- 🤠 [M'bark Bouznir](https://github.com/zizmir)
+- 😀 [Cindy De La Fuente](https://github.com/cindyDLF)
 
 ### <a name='credits'>Credits</a>
 

@@ -66,6 +66,7 @@ link profile and very important a uniq emoticons :)
 Theses awesome people have successfully watch all episodes and made a PR :)
 
 - 😎 [Majdi Toumi](https://github.com/majdi)
+- 😢 [Gwen Ernoul](https://github.com/nehrr)
 
 ### <a name='credits'>Credits</a>
 
